@@ -1,0 +1,174 @@
+*{
+	border: 0px;
+	margin: 0px;
+}
+
+.headerpic{
+	padding-top: 30px;
+	padding-left: 18%;
+	padding-bottom: 20px;
+	
+}
+.line{
+	height: 0.5px;
+	background-color: red;
+}
+
+.headertext{
+	padding-bottom: 13px;
+	padding-top: 30px;
+	padding-left: 17%;
+	color: rgb(217, 46, 44);
+
+}
+
+.divider{
+	height: 712px;
+}
+.dividend{
+	height: 730px;
+	background-color: rgb(21, 96, 104);
+}
+.breakl{
+	width: 98.11%;
+	height: 35px;
+	background-color: rgb(216, 50, 48);
+
+}
+
+.cl{
+	width: 17%;
+	float: left;
+	background-color: white;
+	height: 712px;
+}
+.breakr{
+	
+	height: 35px;
+	background-color: rgb(216, 50, 48);
+
+}
+.content{
+	float: left;
+	width: 72%;
+	padding-top: 10px;
+
+}
+#heading{
+	font-size: 72px;
+	text-align: center;
+}
+.lead{
+	padding-top: 10px;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+}
+.crl{
+	padding-top: 75px;
+	
+	color: rgb(236, 94, 52);
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	width: 50%;
+	float: left;
+}
+.bonus{
+	font-size: 30px;
+}
+.update{
+	width: 75%;
+	height: 45px;
+	background-color: rgb(240, 127, 36);
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+}
+.crr{
+	
+	height: 50px;
+	width: 50%;
+	float: left;
+}
+.cr{
+	float: right;
+	width: 83%;
+	height: 712px;
+	background-color: white;
+}
+
+.divider{
+	height: 10px;
+	background-color: rgb(21, 96, 104);
+}
+
+.footer{
+	color: white;
+	height: 400px;
+	background-color: rgb(31, 133, 143);
+}
+.fl{
+	width: 17%;
+	float: left;
+	text-align: center;
+}
+.fr{
+	width: 83%;
+	float: right;
+	text-align: center;
+}
+.frl{
+	padding-top: 50px;
+	float: left;
+	width: 50%;
+}
+.frr{
+	padding-top: 50px;
+	float: right;
+	width: 50%;
+}
+#frl1{
+	font-size: 25px;
+}
+#frl2{
+	font-weight: bold;
+	font-size: 50px;
+}
+#frl3{
+	font-size: 29px;
+	font-weight: bold;
+}
+#frl4{
+	font-size: 17px;
+}
+.shop{
+	background-color: rgb(235, 23, 31);
+	color: white;
+	width: 20%;
+	height: 30px;
+	border-radius: 20%;
+}
+.text{
+	border-right: 2.0px solid white;
+}
+#frr1{
+	font-size: 20px;
+}
+#frr4{
+	font-size: 30px;
+}
+#frr2{
+	font-size: 50px;
+	font-weight: bold;
+}
+#frr3{
+	font-size: 40px;
+}
+.links{
+	margin-left: 17%;
+	font-size: 13px;
+}
+body{
+	padding-bottom: 100px;
+}
